@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://apotekvega168.pages.dev/sitemap.xml
